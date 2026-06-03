@@ -1,0 +1,6 @@
+{
+  "name": "IPTV Totaal NL",
+  "description": "De Nr. 1 Aanbieder van Premium IPTV Abonnementen in Nederland. Geniet van 30.000+ kanalen, 160.000+ films en series en alle sportzenders in de hoogste kwaliteit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
